@@ -11,8 +11,6 @@ Why? Because it's terribly complicated to lay out - I mean, just look at this ex
 
 For me, pixel-perfect comps are like an itch that I have to scratch - so I made a quick little iOS app that builds a UIPicker for ya. I've engineered it so that designers can easily drop in different color & typeface values.
 
-(Note - I'd love to use the incredible [HexColors](https://github.com/mRs-/HexColors) Cocoapod for this, but Cocoapods is acting wonky for me at the moment.)
-
 Here's the chunks of code that you'll want to play with:
 
 ```objectivec
