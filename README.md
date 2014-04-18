@@ -15,7 +15,7 @@ For me, pixel-perfect comps are like an itch that I have to scratch - so I made 
 
 Here's the chunks of code that you'll want to play with:
 
-```
+```objectivec
     //Set your view's background color here.
     self.view.backgroundColor = [UIColor colorWithRed:0.664 green:0.664 blue:0.664 alpha:1];
     
@@ -35,8 +35,8 @@ Here's the chunks of code that you'll want to play with:
     _pickerTitles = @[@"$10",@"$15", @"$20", @"$25", @"$30", @"$35", @"$40", @"$45", @"$50"];
 ```
 and:
-```
-// Put the attributes in here that you'd like to use.
+```objectivec
+    // Put the attributes in here that you'd like to use.
     // Here's the full list: https://developer.apple.com/library/ios/documentation/uikit/reference/NSAttributedString_UIKit_Additions/Reference/Reference.html
     // I suggest you take a look at the following options:
     // NSForegroundColorAttributeName - changes the type's color.
