@@ -7,7 +7,7 @@ There's one UIKit element that's missing from just about every PSD / Sketch temp
 
 Why? Because it's terribly complicated to lay out - I mean, just look at this exploded view of the internals of the thing:
 
-[iOS7 UIPicker - Exploded](http://blog.ittybittyapps.com/images/posts/lifting-the-lid-on-ios-7s-uipicker/UIDatePickeriOS7.png)
+![iOS7 UIPicker - Exploded](http://blog.ittybittyapps.com/images/posts/lifting-the-lid-on-ios-7s-uipicker/UIDatePickeriOS7.png)
 
 For me, pixel-perfect comps are like an itch that I have to scratch - so I made a quick little iOS app that builds a UIPicker for ya. I've engineered it so that designers can easily drop in different color & typeface values.
 
@@ -55,5 +55,5 @@ and:
 ```
 
 The result? A pixel-perfect UIPicker - and code that you can hand to your engineer!
-[iOS Screenshot](http://clrk.it/image/0I440k202u21/iOS%20Simulator%20Screen%20shot%20Apr%2018,%202014,%2010.58.33%20AM.png)
+![iOS Screenshot](http://clrk.it/image/0I440k202u21/iOS%20Simulator%20Screen%20shot%20Apr%2018,%202014,%2010.58.33%20AM.png)
 
